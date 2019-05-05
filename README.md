@@ -1,4 +1,4 @@
-# DS6103-final-project
+# EDA in student behavior data in class
 Analyze the impact of parents involvement, demographic characteristics  and student behavioral engagement on students’ performance
 
 DATA:The source of the data is the scores and personal information of the two semesters on a learning process management system.
